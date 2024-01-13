@@ -1,0 +1,3 @@
+login
+show restaurants
+show reviews
